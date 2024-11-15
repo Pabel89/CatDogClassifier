@@ -10,4 +10,4 @@ Die Genauigkeit ist bei 92%. Für das Training wurden 8500 Bilder je Hund und Ka
 benutzt. Die Bilder sollten immer so gewählt werden, dass man die Tiere erkennen kann.
 
 # Ausführung des Codes
-Entweder nur mit Python und die jeweiligen Bibliotheken wie Pytorch installieren und den Code in .py Dateien packen um ihn auszuführen oder die Distribution Anaconda3 installieren, wo die passenden Tools unter anderem Jupyter Notebook drin enthalten ist.
+Entweder nur mit Python und die jeweiligen Bibliotheken wie Pytorch installieren und den Code in .py Dateien packen um ihn auszuführen oder die Distribution Anaconda3 installieren, wo die passenden Tools unter anderem Jupyter Notebook drin enthalten sind.
